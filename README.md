@@ -1,6 +1,6 @@
-# Mcq_quiz_project
+#                                                                      Mcq_quiz_project
 
-In conclusion, JSON files are utilized for many different things, such as data analysis, configuration, data storage, and data exchange. It is a well-liked solution for data exchange between various programs and platforms due to its compact and simple-to-read style.
+
 ## Technology used: 
 - Intellij IDEA
 - Java
